@@ -4,29 +4,37 @@ This is a repo for my N215 homework nine
 
 ## Purpose 
 
-This homework assignment will:
+This Final assignment will:
 
-*Teach you how to add jQuery to your page
-*Teach you how to add variables to your JS file
-*How to use variables
-*Write a Function
-*Interact with HTML elements with jQuery
+*Be a single-page application
+
+*Must be in an MVC format
+
+*Look just like the travel-fly home work assignment
+*Must include all the pages
+*Must use jQuery or pure JavaScript
+*Must navigate using the URL
 
  
 ## Tasks
-For this homework assignment, you will be making the home page from the Travel-fly prototype Download Travel-fly prototype responsive.
+For this homework assignment.
 
-* You must create a project named homework-nine
+* You must create a project named final-project
+
 
 * Create a navigation bar that has four links
-*Add content to the page when you click on a link by using the MVC model and jQuery
-* Use only one page and load all the content onto that page 
-* All of these pages are similar to the ones we have done earlier in the site. 
-* All pages must have full content. Images and text on every page and professionally styled. 
+*You must take your old travel-fly project and turn it into a single-page application.
+* It must look exactly like the travel-fly prototype
+*You can find the fonts and images under the Files > Travel-fly folder
+* You must use jQuery or JavaScript 
+*Use only one page and load all the content onto that page dynamically. 
+*You must navigate using the routing that I showed you in class. This uses the URL for navigation.
+*Must use the MVC model we have discussed, and it must by type module
+
 * Upload your project to Github and Web4 and add your Web4 link to the README file. 
 
  
  ## Homework Link for web4
  
  
-https://in-info-web4.informatics.iupui.edu/~jweinant/homework-nine/
+https://in-info-web4.informatics.iupui.edu/~jweinant/final-project/
